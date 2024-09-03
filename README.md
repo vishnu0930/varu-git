@@ -1,2 +1,2 @@
-# varu-git
-this is for practice to create repository
+AWS Cloud Cost Optimization - Identifying Stale Resources
+
